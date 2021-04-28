@@ -1,0 +1,16 @@
+---------- VENUS ----------
+
+Diametro ecuatorial: 0 Km
+Densidad media (Tierra = 1): 0.0
+Gravedad (Tierra = 1): 0.0
+Periodo de rotación: 0.0 Horas / 0.0 Días
+Velocidad de escape: 0 Km/hr
+Inclinación de eje de rotación: 0.0 º
+Excentricidad orbital: 0.0
+Velocidad orbital media: 0 Km/hr
+Período de revolución: 0.0 años
+Inclinación orbital: 0.0 º
+
+---------- SATELITES ----------
+
+Este planeta no tiene satélites

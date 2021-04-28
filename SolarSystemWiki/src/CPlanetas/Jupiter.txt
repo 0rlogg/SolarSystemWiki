@@ -1,0 +1,93 @@
+---------- JUPITER ----------
+
+Diametro ecuatorial: 0 Km
+Densidad media (Tierra = 1): 0.0
+Gravedad (Tierra = 1): 0.0
+Periodo de rotación: 0.0 Horas / 0.0 Días
+Velocidad de escape: 0 Km/hr
+Inclinación de eje de rotación: 0.0 º
+Excentricidad orbital: 0.0
+Velocidad orbital media: 0 Km/hr
+Período de revolución: 0.0 años
+Inclinación orbital: 0.0 º
+
+---------- SATELITES ----------
+
+Aedea
+Aitné
+Amaltea
+Ananqué
+Arce
+Autónoe
+Caldona
+Calé
+Cálice
+Calírroe
+Calisto
+Carmé
+Carpo
+Cilene
+Dia
+Eirene
+Elara
+Erínome
+Ersa
+Espondé
+Euante
+Eufeme
+Eukélade
+Euporia
+Eurídome
+Europa
+Filofrósine
+Ganímedes
+Harpálice
+Hegémone
+Heliké
+Hermipé
+Herse
+Himalia
+Isonoé
+Kallichore
+Kore
+Leda
+Lisitea
+lo
+Megaclite
+Metis
+Mnemea
+Ortosia
+Pandia
+Pasífae
+Pasítea
+Praxídice
+S/2003 J 2
+S/2003 J 4
+S/2003 J 9
+S/2003 J 10
+S/2003 J 12
+S/2003 J 16
+S/2003 J 18
+S/2003 J 19
+S/2003 J 23
+S/2010 J 1
+S/2010 J 2
+S/2011 J 1
+S/2011 J 2
+S/2016 J 1
+S/2017 J 1
+S/2017 J 2
+S/2017 J 3
+S/2017 J 5
+S/2017 J 6
+S/2017 J 7
+S/2017 J 8
+S/2017 J 9
+Sinope
+Táigete
+Tebe
+Telxínoe
+Temisto
+Tione
+Valetudo
+Yocasta

@@ -1,0 +1,77 @@
+---------- SATURNO ----------
+
+Diametro ecuatorial: 0 Km
+Densidad media (Tierra = 1): 0.0
+Gravedad (Tierra = 1): 0.0
+Periodo de rotación: 0.0 Horas / 0.0 Días
+Velocidad de escape: 0 Km/hr
+Inclinación de eje de rotación: 0.0 º
+Excentricidad orbital: 0.0
+Velocidad orbital media: 0 Km/hr
+Período de revolución: 0.0 años
+Inclinación orbital: 0.0 º
+
+---------- SATELITES ----------
+	
+Aegir
+Albiorix
+Anthe
+Atlas
+Bebhionn
+Bergelmir
+Bestla
+Calipso
+Dafne
+Dione
+Egeón
+Encélado
+Epimeteo
+Erriapo
+Farbauti
+Febe
+Fenrir
+Fornjot
+Greip
+Hati
+Helena
+Hiperión
+Hyrokkin
+Ijiraq
+Jano
+Jápeto
+Jarnsaxa
+Kari
+Kiviuq
+Loge
+Metone
+Mimas
+Mundilfari
+Narvi
+Paaliaq
+Palene
+Pan
+Pandora
+Pollux
+Prometeo
+Rea
+S/2004 S 7
+S/2004 S 12
+S/2004 S 13
+S/2004 S 17
+S/2006 S 1
+S/2006 S 3
+S/2007 S 2
+S/2007 S 3
+S/2009 S 1
+Siarnaq
+Skadi
+Skoll
+Surtur
+Suttungr
+Tarqeq
+Tarvos
+Telesto
+Tetis
+Thrymr
+Titán
+Ymir

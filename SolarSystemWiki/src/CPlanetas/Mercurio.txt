@@ -1,0 +1,16 @@
+---------- MERCURIO ----------
+
+Diametro ecuatorial: 4880 Km
+Densidad media (Tierra = 1): 0.98
+Gravedad (Tierra = 1): 0.39
+Periodo de rotación: 1407.0 Horas / 58.625 Días
+Velocidad de escape: 15486 Km/hr
+Inclinación de eje de rotación: 0.0 º
+Excentricidad orbital: 0.206
+Velocidad orbital media: 172482 Km/hr
+Período de revolución: 24.0 años
+Inclinación orbital: 7.0 º
+
+---------- SATELITES ----------
+
+Este planeta no tiene satélites

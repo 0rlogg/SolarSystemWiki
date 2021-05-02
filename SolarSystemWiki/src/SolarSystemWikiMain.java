@@ -7,12 +7,12 @@ import java.util.Scanner;
 import solar.Main3DSolarSystem;
 
 public class SolarSystemWikiMain {
-	static final double UA = 150000000; 
-	static final double AL = 9460730472580.8;
+	static final double UA = 150000000; //constante valor unidades astronomicas
+	static final double AL = 9460730472580.8;//constante valor años luz
 	
 	public static void main (String[] args) {    
 		
-				Scanner sn = new Scanner(System.in);
+				Scanner sn = new Scanner(System.in);//Menú principal
 				boolean salir = false;
 				int opcion; //Guardaremos la opcion del usuario
 				while(!salir){
@@ -23,7 +23,7 @@ public class SolarSystemWikiMain {
 						System.out.println("5.-	Sistema solar 3D");
 					opcion = sn.nextInt();
 					switch(opcion){
-					case 1: //Información de planetas
+					case 1: //Menu de nformación de planetas
 						while(!salir){
 							System.out.println("1.- Mercurio");
 							System.out.println("2.- Venus");
@@ -348,7 +348,7 @@ public class SolarSystemWikiMain {
 							}
 						}
 						break;
-					case 2: //Información de planetas enanos
+					case 2: //Menu de información de planetas enanos
 						while(!salir){
 							System.out.println("1.- Pluton");
 							System.out.println("2.- Ceres");
@@ -447,7 +447,7 @@ public class SolarSystemWikiMain {
 						           //Repetir mientras no se llegue al final del fichero
 						           while(texto != null)
 						           {
-						               //Hacer lo que sea con la línea leída
+						               
 						               System.out.println(texto);
 						               //Leer la siguiente línea
 						               texto = h.readLine();
@@ -555,7 +555,7 @@ public class SolarSystemWikiMain {
 								System.out.println();
 							}
 						}
-					case 3: //Distancias de planetas al sol
+					case 3: //Menu de distancias de planetas al sol
 						while(!salir){
 							System.out.println("1.- Mercurio");
 							System.out.println("2.- Venus");
@@ -746,7 +746,7 @@ public class SolarSystemWikiMain {
 								System.out.println();
 							}
 						}
-					case 4: //Distancias interplanetarias
+					case 4: //Menu de distancias interplanetarias
 						while(!salir){
 							System.out.println("1.- Mercurio");
 							System.out.println("2.- Venus");
@@ -798,7 +798,7 @@ public class SolarSystemWikiMain {
 								break;
 								}
 							}
-					case 5: //Planetas sistema solar 3D
+					case 5: //Menu de planetas de el sistema solar 3D
 						while(!salir){
 							System.out.println("1.- Sistema solar 3D");
 							System.out.println("2.- Salir");

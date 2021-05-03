@@ -758,28 +758,95 @@ public class SolarSystemWikiMain {
 							case 1:
 								//Mercurio a todos los planetas	
 								System.out.println("-----------DISTANCIA: MERCURIO - VENUS-----------");
+								double amv = 1.089*Math.pow(10, 8) - 6.97*Math.pow(10, 7)  , pmv =  1.075*Math.pow(10, 8) - 4.60*Math.pow(10, 7);
+								double sumamv = amv + pmv;
+								double resultadomv = sumamv /2;
+								System.out.println(EliminarNotaciónCientifica(resultadomv) + " Km");
+								System.out.println(EliminarNotaciónCientifica(resultadomv/UA) + " Ua");
+								System.out.println(EliminarNotaciónCientifica(resultadomv/AL) + " Al\n");
 								
 								System.out.println("-----------DISTANCIA: MERCURIO - TIERRA-----------");
-								
-								System.out.println("-----------DISTANCIA: MERCURIO - MARTE-----------");
+								double amt =  1.521*Math.pow(10, 8) - 6.97*Math.pow(10, 7)  , pmt =  1.471*Math.pow(10, 8) - 4.60*Math.pow(10, 7);
+								double sumamt = amt + pmt;
+								double resultadomt = sumamt /2;
+								System.out.println(EliminarNotaciónCientifica(resultadomt) + " Km");
+								System.out.println(EliminarNotaciónCientifica(resultadomt/UA) + " Ua");
+								System.out.println(EliminarNotaciónCientifica(resultadomt/AL) + " Al\n");
 
-								
+								System.out.println("-----------DISTANCIA: MERCURIO - MARTE-----------");
+								double amm =  2.491*Math.pow(10, 8) - 6.97*Math.pow(10, 7)  , pmm =  2.067*Math.pow(10, 8) - 4.60*Math.pow(10, 7);
+								double sumamm = amm + pmm;
+								double resultadomm = sumamm /2;
+								System.out.println(EliminarNotaciónCientifica(resultadomm) + " Km");
+								System.out.println(EliminarNotaciónCientifica(resultadomm/UA) + " Ua");
+								System.out.println(EliminarNotaciónCientifica(resultadomm/AL) + " Al\n");
+					
 								System.out.println("-----------DISTANCIA: MERCURIO - JUPITER-----------");
+								double amj =  8.157*Math.pow(10, 8) - 6.97*Math.pow(10, 7)  , pmj =  7.409*Math.pow(10, 8) - 4.60*Math.pow(10, 7);
+								double sumamj = amj + pmj;
+								double resultadomj = sumamj /2;
+								System.out.println(EliminarNotaciónCientifica(resultadomj) + " Km");
+								System.out.println(EliminarNotaciónCientifica(resultadomj/UA) + " Ua");
+								System.out.println(EliminarNotaciónCientifica(resultadomj/AL) + " Al\n");
 								
 								System.out.println("-----------DISTANCIA: MERCURIO - SATURNO-----------");
+								double ams =  1.503*Math.pow(10, 9) - 6.97*Math.pow(10, 7)  , pms =  1.348*Math.pow(10, 9) - 4.60*Math.pow(10, 7);
+								double sumams = ams + pms;
+								double resultadoms = sumams /2;
+								System.out.println(EliminarNotaciónCientifica(resultadoms) + " Km");
+								System.out.println(EliminarNotaciónCientifica(resultadoms/UA) + " Ua");
+								System.out.println(EliminarNotaciónCientifica(resultadoms/AL) + " Al\n");
 								
 								System.out.println("-----------DISTANCIA: MERCURIO - URANO-----------");
-								
+								double amu =  3.003*Math.pow(10, 9) - 6.97*Math.pow(10, 7)  , pmu =  2.739*Math.pow(10, 9) - 4.60*Math.pow(10, 7);
+								double sumamu = amu + pmu;
+								double resultadomu = sumamu /2;
+								System.out.println(EliminarNotaciónCientifica(resultadomu) + " Km");
+								System.out.println(EliminarNotaciónCientifica(resultadomu/UA) + " Ua");
+								System.out.println(EliminarNotaciónCientifica(resultadomu/AL) + " Al\n");
+
 								System.out.println("-----------DISTANCIA: MERCURIO - NEPTUNO-----------");
+								double amn =  4.546*Math.pow(10, 9) - 6.97*Math.pow(10, 7)  , pmn =  4.456*Math.pow(10, 9) - 4.60*Math.pow(10, 7);
+								double sumamn = amn + pmn;
+								double resultadomn = sumamn /2;
+								System.out.println(EliminarNotaciónCientifica(resultadomn) + " Km");
+								System.out.println(EliminarNotaciónCientifica(resultadomn/UA) + " Ua");
+								System.out.println(EliminarNotaciónCientifica(resultadomn/AL) + " Al\n");
 								
 								System.out.println("-----------DISTANCIA: MERCURIO - CERES-----------");
+								double amC =  4.472975*Math.pow(10, 8) - 6.97*Math.pow(10, 7)  , pmC =  3.814746*Math.pow(10, 8) - 4.60*Math.pow(10, 7);
+								double sumamC = amC + pmC;
+								double resultadomC = sumamC /2;
+								System.out.println(EliminarNotaciónCientifica(resultadomC) + " Km");
+								System.out.println(EliminarNotaciónCientifica(resultadomC/UA) + " Ua");
+								System.out.println(EliminarNotaciónCientifica(resultadomC/AL) + " Al\n");
 								
 								System.out.println("-----------DISTANCIA: MERCURIO - PLUTON-----------");
+								double amP =  7.380*Math.pow(10, 9) - 6.97*Math.pow(10, 7)  , pmP =  4.447*Math.pow(10, 9) - 4.60*Math.pow(10, 7);
+								double sumamP = amP + pmP;
+								double resultadomP = sumamP /2;
+								System.out.println(EliminarNotaciónCientifica(resultadomP) + " Km");
+								System.out.println(EliminarNotaciónCientifica(resultadomP/UA) + " Ua");
+								System.out.println(EliminarNotaciónCientifica(resultadomP/AL) + " Al\n");
 								
 								System.out.println("-----------DISTANCIA: MERCURIO - MAKEMAKE-----------");
+								double amM =  7894.762625*Math.pow(10, 6) - 6.97*Math.pow(10, 7)  , pmM =  5671.928586*Math.pow(10, 6) - 4.60*Math.pow(10, 7);
+								double sumamM = amM + pmM;
+								double resultadomM = sumamM /2;
+								System.out.println(EliminarNotaciónCientifica(resultadomM) + " Km");
+								System.out.println(EliminarNotaciónCientifica(resultadomM/UA) + " Ua");
+								System.out.println(EliminarNotaciónCientifica(resultadomM/AL) + " Al\n");
 								
 								System.out.println("-----------DISTANCIA: MERCURIO - HERIS-----------");
-								
+								double amH =  14594.512904*Math.pow(10, 6) - 6.97*Math.pow(10, 7)  , pmH =  5765.732799*Math.pow(10, 6) - 4.60*Math.pow(10, 7);
+								double sumamH = amH + pmH;
+								double resultadomH = sumamH /2;
+								System.out.println(EliminarNotaciónCientifica(resultadomH) + " Km");
+								System.out.println(EliminarNotaciónCientifica(resultadomH/UA) + " Ua");
+								System.out.println(EliminarNotaciónCientifica(resultadomH/AL) + " Al\n");
+								System.out.println("*UA son unidades astronomicas, 1 UA es aproximadamente el equivalente a la distancia media entre la tierra y el sol (150.000.000 Km)*");
+								System.out.println("*AL son años luz, aproximadamente un año luz equivale a 9.460.730.472.580,8 Km*\n");
+
 								break;
 							case 2://Venus a todos los planetas
 								System.out.println("-----------DISTANCIA: VENUS - MERCURIO-----------");
